@@ -12,23 +12,23 @@ There was four popular datasets for NER task in Persian, and [Hooshvare Team](ht
 
 ParsNer tags:
 >- DAT: Date
-- EVE: Event
-- FAC: Facility
-- LOC: Location
-- MON: Money
-- ORG: Organization
-- PCT: Percent
-- PER: Person
-- PRO: Product
-- TIM: Time
+>- EVE: Event
+>- FAC: Facility
+>- LOC: Location
+>- MON: Money
+>- ORG: Organization
+>- PCT: Percent
+>- PER: Person
+>- PRO: Product
+>- TIM: Time
 
 SemEval tags:
-> - PER: Names of people
-- LOC: Location or physical facilities
-- CORP: Corporations and businesses
-- GRP: All other groups
-- PROD: Consumer products
-- CW: Titles of creative works like movie, song,
+>- PER: Names of people
+>- LOC: Location or physical facilities
+>- CORP: Corporations and businesses
+>- GRP: All other groups
+>- PROD: Consumer products
+>- CW: Titles of creative works like movie, song,
 and book title
 
 Statistics:
